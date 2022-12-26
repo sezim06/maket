@@ -96,6 +96,7 @@
   border-radius: 10px;
   color: white;
 }
+
 .btn2 {
   font-family: 'Poppins', sans-serif;
   background-color: #58a9a5;
@@ -511,13 +512,5 @@ border: 1px solid #000000;
 .linia span {
  
   margin-left: 60px;
-  
-}
-.side {
-  width: 78px;
-height: 78px;
-margin-top: -100px;
-margin-left: -100px;
-background: rgba(63, 20, 20, 0.4);
-border-radius: 65px;
+
 }
